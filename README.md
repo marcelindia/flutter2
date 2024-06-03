@@ -1,6 +1,6 @@
-# i_am_rich
 
-A new Flutter project.
+<img width="362" alt="Screenshot 2024-06-03 at 12 49 14 PM" src="https://github.com/marcelindia/flutter2/assets/97323191/6bf4b067-f208-4b12-a067-f716eaaec166">
+
 
 ## Getting Started
 
